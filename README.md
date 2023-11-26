@@ -1,9 +1,9 @@
 # Broken Clock Simulator
 "Even a broken clock is right twice a day..."
 
-86400 - 2 = 86398.
+86400 - 2 = ?.
 
-The Broken Clock Simulator is a simple Java application that calculates and displays the deductive fact that based on the number of times a day that it's right, a broken clock is wrong 86398 times a day. 
+The Broken Clock Simulator is a simple Java application that calculates and displays the deductive fact that based on the number of times a day that a broken clock is right, then it must be wrong a proportionate amount of times to this figure.
 
 It is assumed that each day has 86400 seconds.
 
