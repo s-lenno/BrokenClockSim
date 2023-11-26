@@ -8,6 +8,8 @@ The Broken Clock Simulator is a simple Java application that calculates and disp
 It is assumed that each day has 86400 seconds.
 
 The program consists of a `Clock` class that represents a broken clock and a `BrokenClockSim` class containing the main method. 
-Running the `BrokenClockSim` class will begin the program and print into the user's console the output of `A broken clock is wrong 86398 times a day.`
+Running the `BrokenClockSim` class will begin the program and print into the user's console the output of 
+
+`A broken clock is wrong 86398 times a day.`
 
 # SL
